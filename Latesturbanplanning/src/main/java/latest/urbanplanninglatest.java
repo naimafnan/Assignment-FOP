@@ -3,7 +3,7 @@ package latest;
 import java.util.Random;
 import java.util.Scanner;
 
-public class urbanplanninglatest {
+public class urbanplanning {
 
     public static void main(String[] args) {
         String[] sym={"A","H","S","M","U","C","R","T","B","P"};
